@@ -1,0 +1,5 @@
+org\facebook\TestRunner.class
+com\facebook\common\CommonFunction.class
+org\facebook\Hooks.class
+com\objectRepository\facebook\SignUp.class
+org\facebook\FacebookLogin.class
